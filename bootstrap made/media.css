@@ -1,0 +1,18 @@
+@media(max-width:480px)
+{
+    .main2
+    {
+        font-size: small;
+    }
+    .main2 .sub-main-2
+    {
+        margin: 1% 0% 0% 10%;
+        position: absolute;
+    }
+    .main2 .sub-main-2 button
+    {
+        font-size: small;
+    }
+    
+   
+}
